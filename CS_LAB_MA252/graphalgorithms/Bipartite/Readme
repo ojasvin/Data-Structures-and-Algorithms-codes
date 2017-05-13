@@ -1,0 +1,2 @@
+The code uses BFS to check if a directedgraph is bipartite or not and if it is bipartite then also prints the two partitions.
+This code works for disconnected graphs as well as connected graphs
