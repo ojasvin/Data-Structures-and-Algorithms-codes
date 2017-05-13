@@ -38,11 +38,6 @@ class queue:
 		else :
 			return 0	
 
-	def qprint(self):
-		trav=self.head
-		while trav!=None:
-			return(trav.data)
-			trav=trav.pointer
 
 	def mnode(self,m):
 		c=0
