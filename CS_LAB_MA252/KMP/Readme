@@ -1,3 +1,2 @@
-The above is a c++ code for the implementation of KMP ( Knuth Morris Pratt Algorithm ) algorithm which is efficient in 
-finding the number of occurences of pattern in the string.
+The above is a c++ code for the implementation of KMP ( Knuth Morris Pratt Algorithm ) algorithm which is efficient in finding the number of occurences of pattern in the string.
 
