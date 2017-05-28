@@ -46,10 +46,10 @@ int main()
     c=0;
     while (j<t.length())
     {
-        if (i==n-1)    
-            c++;   
         if (p[i]==t[j])
         {
+            if (i==n-1)    
+                c++;   
             i++;
             j++;
         }
