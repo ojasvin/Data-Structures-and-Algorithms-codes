@@ -14,9 +14,9 @@ def printlcs(b,X,i,j):
 def lcs(A,B):
 	la=len(A)
 	lb=len(B)
-	#Creates a list containing 5 lists, each of 8 items, all set to 0
+
 	w, h = la, lb;
-	c=	[[0 for x in range(h+1)] for y in range(w+1)] #c is length of lcs
+	c = [[0 for x in range(h+1)] for y in range(w+1)] #c is length of lcs
 	b = [[0 for x in range(h+1)] for y in range(w+1)] 
 	
 	for i in range(0,w):
